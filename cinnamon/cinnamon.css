@@ -967,7 +967,7 @@ StScrollBar {
   margin: auto;
   padding: 10px;
   transition-duration: 300;
-  background-color: #383C4A;
+  background-color: #000000;
   border: 1px solid #2b2e39; }
 
 .menu-favorites-button {
